@@ -1,0 +1,13 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#memoNo {
+    text-align: right;
+}
+
+#gt,#qt1,#qt2,#qt3,#qt4,#qt5,#qt6,#qt7,#qt8,#qt9,#qt10,#r1,#r2,#r3,#r4,#r5,#r6,#r7,#r8,#r9,#r10,#amt1,#amt2,#amt3,#amt4,#amt5,#amt6,#amt7,#amt8,#amt9,#amt10 {
+    text-align: right;
+}
